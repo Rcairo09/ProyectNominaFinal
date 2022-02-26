@@ -4,6 +4,7 @@ com\rodzmell\menu\controller\CtrRegistro.class
 com\rodzmell\menu\controller\NominaController.class
 com\rodzmell\menu\models\NominaData.class
 com\rodzmell\menu\views\MenuOpciones.class
+com\rodzmell\menu\views\SplashScreen.class
 com\rodzmell\menu\controller\CtrConfig.class
 com\rodzmell\menu\controller\CtrUsuario.class
 com\rodzmell\menu\views\NominaFrame.class
